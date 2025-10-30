@@ -15,12 +15,15 @@ cdc-overdose-prediction/
 
 ---
 
-## Data Source
-**CDC WONDER: Multiple Cause of Death (2018–2023)**  
+## Data Source & Acknowledgement
+**CDC WONDER: Multiple Cause of Death (2018–2023)**
+[https://wonder.cdc.gov/mcd-icd10-expanded.html](https://wonder.cdc.gov/mcd-icd10-expanded.html)
+
 Dataset filtered for:
 - *Drug poisoning (overdose)* (ICD-10: X40–X44, X60–X64, X85, Y10–Y14)
 - Grouped by **State**, **County**, and **Year**
 
+**Note:**_The analyses, interpretations, and conclusions in this repository are those of the authors and do not necessarily represent the views of the CDC or the U.S. Department of Health and Human Services_
 ---
 
 ## Methods
