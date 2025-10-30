@@ -44,11 +44,15 @@ Dataset filtered for:
 ---
 
 ## Example Visuals
-*(Add screenshots or figures from your notebooks)*
 
-- Overdose trend by year  
-- Top 10 states by average overdose rate  
-- Feature importance from Random Forest  
+### Overdose trend by year 
+![Overdose Trend by Year](images/trend_by_year.png)
+
+### Top 10 states by average overdose rate  
+![Top 10 states](images/top_10_states.png)
+
+### Feature importance from Random Forest
+![Feature importance](images/feature_importance.png)
 
 ---
 
